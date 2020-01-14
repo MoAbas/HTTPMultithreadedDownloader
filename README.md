@@ -6,3 +6,5 @@
 $ gcc -pthread -o http_client.exe http_client.c
 $ ./http_client.exe TargetFileURL NumberOfThreads
 ```
+##### With Example arguments:<br/>
+`$ ./http_client.exe http://www.hochmuth.com/mp3/Haydn_Cello_Concerto_D-1.mp3 5`
